@@ -1,2 +1,0 @@
-# PostItApp
-Created with CodeSandbox
